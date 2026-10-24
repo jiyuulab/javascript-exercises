@@ -1,7 +1,6 @@
 # Exercise 05 - joinStrings
 
 ## Step 1: Learn
-
 First, look at the example code in `joinStrings-example.js`. Try and predict what the `console.log` output will be. When you're ready, run the test:
 
 ```bash
@@ -11,7 +10,6 @@ npm test joinStrings-example.spec.js
 If you saw anything unexpected, feel free to review the code again.
 
 ## Step 2: Do
-
 After understanding the example code, you will recreate the snippet on your own using the following instructions (in `joinStrings.js`):
 
 1. Create 4 variables: `firstName`, `lastName`, `thisYear`, and `birthYear`
@@ -21,7 +19,6 @@ After understanding the example code, you will recreate the snippet on your own 
 Note: To make the tests pass, you will need to use exact values and wording (as you will see described in `joinStrings.js`). If the tests fail, look at the feedback in your terminal then check your spacing, capitalization, and punctuation.
 
 ## Step 3: Clean up
-
 You will edit your code to make it easier to read using the following instructions:
 
 1. Create 2 new variables: `fullName` and `age`
@@ -40,6 +37,11 @@ npm test joinStrings.spec.js
 ```
 
 ## Hints
-
 - Look at the docs for JavaScript variables for a quick reference.
 - Refer back to the [Variables and Operators lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators) if you are still stuck.
+
+
+
+
+
+
